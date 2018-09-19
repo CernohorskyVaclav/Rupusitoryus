@@ -1,0 +1,17 @@
+header h1 {
+    display: inline;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: inline;
+}
+main section {
+    width: 80%;
+}
+main aside {
+    width: 20%;
+}
